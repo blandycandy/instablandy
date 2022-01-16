@@ -1,0 +1,1 @@
+/panel klasörü içindeki ayarlar.php'den kullanıcı adı ve şifrenizi kendinize göre ayarlayın. (Şu an auto olarak, k.adı: tachoyro şifre:123456 olarak ayarlı.)
